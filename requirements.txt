@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+ollama
+openai
+requests
+pandas
+numpy
+python-dotenv
+litellm
